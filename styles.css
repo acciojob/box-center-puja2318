@@ -14,7 +14,7 @@ body {
   width: 200px;
   height: 200px;
   background-color: lightblue;
-  border: 2px solid black;
+  border:2px solid black;
   display: flex;
   justify-content: center;
   align-items: center;
