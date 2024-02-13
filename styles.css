@@ -14,7 +14,7 @@ body {
   width: 200px;
   height: 200px;
   background-color: lightblue;
-  border:2px solid black;
+  border:0px solid black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,7 +24,7 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.centered-box p {
+.centered-box {
   color: purple;
   text-align: center;
 }
